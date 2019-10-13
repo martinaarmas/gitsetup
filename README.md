@@ -11,6 +11,6 @@ This repository counts with:
 2. A .gitignore file
 3. A README.md file
 
->This homework was achieved with the instructions presented and the use of **_Terminal_**
+>This homework was achieved with the [instructions] (https://campus.ie.edu/bbcswebdav/pid-2393484-dt-content-rid-14241826_1/courses/BIS2019BIS.M.A_C3_319302/Session%209%20%26%2010.pdf) presented and the use of **_Terminal_**
 For more information contact [Martina Armas](https://www.linkedin.com/in/martina-armas-793b60157/)
 
